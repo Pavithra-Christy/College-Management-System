@@ -1,0 +1,4 @@
+# requirements.txt - Dependencies
+Flask
+mysql-connector-python
+dotenv
