@@ -75,7 +75,7 @@ A full-stack web application to manage students, faculty, courses, departments, 
    npm start
    ```
 
-## 📈 Example Output
+## 📈 Output
 
 Once the app is running, you'll see a **dashboard** with various sections, such as:
 
